@@ -1,0 +1,7 @@
+type Customer {
+	id: String!
+	email: String!
+	phone: String
+	firstname: String
+	lastname: String
+}

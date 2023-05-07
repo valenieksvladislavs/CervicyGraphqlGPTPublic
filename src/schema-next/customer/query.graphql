@@ -1,0 +1,4 @@
+type Query {
+	Customer: Customer!
+	Customers: [Customer]
+}
